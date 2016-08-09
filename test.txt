@@ -1,6 +1,6 @@
 This is testing file
 it is intended to test merging of git
-what else
+what ?
 This line is addded in commit 2
 
 

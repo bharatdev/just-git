@@ -3,3 +3,5 @@ it is intended to test merging of git
 what else
 This line is addded in commit 2
 
+
+

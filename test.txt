@@ -3,5 +3,5 @@ it is intended to test merging of git
 what ?
 This line is addded in commit 2
 
-
+test
 
